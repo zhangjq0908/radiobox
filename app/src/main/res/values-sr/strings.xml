@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Транзистор</string>
+    <!-- please do not translate app_name - transcription into different alphabet types is fine though -->
+    <string name="shortcut_last_station_short_label">Претходна станица</string>
+    <string name="shortcut_last_station_long_label">Пусти претходну станицу</string>
+    <string name="shortcut_last_station_disabled_message">Пречица за пуштање претходне станице искључена.</string>
+    <string name="descr_app_icon">Икона апликације која означава стари радио</string>
+    <string name="player_sheet_h2_station_metadata">Тренутно пуштање</string>
+    <string name="player_sheet_h2_stream_url">Веза тока</string>
+    <string name="dialog_generic_button_okay">У реду</string>
+    <string name="dialog_generic_button_cancel">Одустани</string>
+    <string name="dialog_error_message_default">Десила се грешка</string>
+    <string name="dialog_rename_station_input_hint">Унесите нови назив</string>
+    <string name="toast_message_shortcut_created">Пречица направљена.</string>
+    <string name="toast_message_shortcut_not_created">Пречица није направљена. Овај уређај не допушта прављење пречица.</string>
+    <string name="toast_message_copied_to_clipboard">Веза тока копирана на клипборд.</string>
+    <string name="toast_message_no_image_picker">No image picker available. Consider installing a Gallery application.</string>
+    <string name="notification_play">Пусти</string>
+    <string name="notification_stop">Заустави</string>
+</resources>

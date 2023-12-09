@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Transistor</string>
+    <!-- please do not translate app_name - transcription into different alphabet types is fine though -->
+    <string name="shortcut_last_station_short_label">Posledne prehrávaná stanica</string>
+    <string name="shortcut_last_station_long_label">Znovu spustí naposledy prehrávanú stanicu</string>
+    <string name="shortcut_last_station_disabled_message">Skratka na posledne prehrávanú stanicu je zakázaná.</string>
+    <string name="descr_app_icon">Ikona aplikácii znázorňuje staré rádio</string>
+    <string name="player_sheet_h2_station_metadata">Práve hrá</string>
+    <string name="player_sheet_h2_stream_url">Odkaz na stream</string>
+    <string name="dialog_generic_button_okay">OK</string>
+    <string name="dialog_generic_button_cancel">Zrušiť</string>
+    <string name="dialog_error_message_default">Vyskytla sa chyba</string>
+    <string name="toast_message_shortcut_created">Odkaz vytvorený.</string>
+    <string name="toast_message_shortcut_not_created">Odkaz nie je vytvorený. Toto zariadenie neumožňuje pridávať odkazy na domovskú obrazovku.</string>
+    <string name="toast_message_copied_to_clipboard">Odkaz na stream skopírovaný do schránky.</string>
+    <string name="toast_message_no_image_picker">Nie je k dispozícii žiadna aplikácia na výber obrázkov. Mali by ste si nainštalovať aplikáciu Galéria.</string>
+    <string name="notification_play">Prehrať</string>
+    <string name="notification_stop">Zastaviť</string>
+    <string name="onboarding_app_description">Aplikácia Rádio</string>
+    <string name="onboarding_app_get_started">Začíname</string>
+    <string name="dialog_edit_station_name">Meno stanice</string>
+    <string name="dialog_edit_save_changes">Uložiť zmeny</string>
+    <string name="fragment_settings_title">Nastavenia</string>
+    <string name="dialog_edit_stream_uri">Adresa streamovania</string>
+    <string name="dialog_find_station_button_add">Pridať</string>
+    <string name="dialog_find_station_hint">Názov alebo streamovacia adresa</string>
+    <string name="notification_skip_to_next">Ďalšie</string>
+    <string name="dialog_error_title_no_network">Offline</string>
+    <string name="dialog_find_station_no_results">Neboli nájdené žiadne výsledky.</string>
+    <string name="dialog_opml_import_details_default">Nie sú dostupné žiadne detaily</string>
+    <string name="pref_advanced_title">Pokročilý</string>
+    <string name="dialog_find_station_title">Nájdi stanicu</string>
+    <string name="dialog_rename_station_input_hint">Zadajte nový názov</string>
+    <string name="dialog_yes_no_message_remove_station">Odstrániť túto stanicu\?</string>
+    <string name="dialog_yes_no_negative_button_cancel">Zrušiť</string>
+    <string name="notification_skip_to_previous">Predošlé</string>
+    <string name="pref_app_version_summary">Verzia</string>
+    <string name="pref_app_version_title">Verzia aplikácie</string>
+    <string name="dialog_yes_no_positive_button_default">Áno</string>
+    <string name="pref_about_title">O</string>
+    <string name="pref_backup_title">Zálohovať stanice</string>
+    <string name="pref_backup_summary">Uložiť zbierku rádio staníc vrátane obrázkov do pamäte zariadenia.</string>
+    <string name="dialog_error_message_no_network">Pripojiť sa na internet.</string>
+    <string name="dialog_generic_details_button">Ukázať detaily</string>
+    <string name="dialog_yes_no_message_update_station_images">Stiahnuť posledné verzie obrázkov všetkých staníc\?</string>
+</resources>
